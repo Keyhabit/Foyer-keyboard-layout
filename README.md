@@ -1,15 +1,19 @@
 # Focal-keyboard-layout
 A high-performing alternative to Gallium, Sturdy and other custom keyboard layouts
 
-![Focal-compact](https://github.com/user-attachments/assets/6e39f595-086a-48da-bfb0-59e50ef9a164)
+![Focal-compact](images/Focal-compact.jpg)
 
-![Focal-all](https://github.com/user-attachments/assets/504fb322-3701-4e23-af01-84416957fcac)
+![Focal-all](images/Focal-full.jpg)
 
-![HNM-ZYFCW-comparison-xlsx--Excel-13072024-220440](https://github.com/user-attachments/assets/b7cb2891-cc69-4403-9f7b-fa6f570b4a9a)
+![HNM-ZYFCW-comparison-xlsx--Excel-13072024-220440](images/HNM-ZYFCW-comparison-xlsx--Excel-13072024-220440.jpg)
 
-![HNM-ZYFCW-comparison-xlsx--Excel-13072024-220436](https://github.com/user-attachments/assets/4fadffe4-fd97-4001-aad6-29e7a26805f0)
+![HNM-ZYFCW-comparison-xlsx--Excel-13072024-220436](images/HNM-ZYFCW-comparison-xlsx--Excel-13072024-220436.jpg)
 
-![ULC-Ultimate-Layout-Comparison-xlsx--Excel-13072024-223126](https://github.com/user-attachments/assets/72971fd1-62cf-4769-b2bf-d33bff670489)
+![ULC-Ultimate-Layout-Comparison-xlsx--Excel-13072024-223126](images/ULC-Ultimate-Layout-Comparison-xlsx--Excel-13072024-223126.jpg)
 
 - Can easily be made even more comfortable by boosting inrolls using software / firmware to either reverse the TH bigram (so that typing HT will result in TH and TH will result in HT) or implement an HG or MD combo that outputs TH.
 - The FY, CY and WY SFBs on vowel index are easy to alt-finger.
+
+## ZSA Oryx
+
+You can add Focal to your ZSA keyboard with this [layer template](https://configure.zsa.io/templates/layers/preview/lba/)
